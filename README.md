@@ -9,3 +9,5 @@ Contributions to the website are both welcomed and appreciated. See the [CONTRIB
 ## Link to website
 
 Visit the website at https://nzufelt.github.io/open_source_movement_csc630/.
+
+hello!
